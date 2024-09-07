@@ -1,0 +1,14 @@
+/* app/profile/profile.css */
+.profile-container {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+  }
+  
